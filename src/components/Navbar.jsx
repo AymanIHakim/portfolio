@@ -62,7 +62,7 @@ const Navbar = () => {
               </motion.a>
             ))}
             <motion.a
-              href="/resume.pdf"
+              href="/portfolio/resume.pdf"
               target="_blank"
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -103,7 +103,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="/resume.pdf"
+              href="/portfolio/resume.pdf"
               target="_blank"
               className="mt-2 rounded-lg border border-accent px-4 py-2 text-center font-mono text-sm text-accent"
             >
