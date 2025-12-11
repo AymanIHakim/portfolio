@@ -60,7 +60,7 @@ const About = () => {
                 {/* Image container */}
                 <div className="relative h-full w-full rounded-2xl overflow-hidden border-2 border-accent/30 shadow-xl shadow-accent/10">
                   <img
-                    src="/images/profile.jpeg"
+                    src="/portfolio/images/profile.jpeg"
                     alt="Ayman Ibne Hakim"
                     className="h-full w-full object-cover object-top"
                   />
