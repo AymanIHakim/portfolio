@@ -1,0 +1,7 @@
+# robots.txt for Ayman Ibne Hakim Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://aymanIHakim.github.io/portfolio/sitemap.xml
+
